@@ -1,0 +1,6 @@
+C:\Users\matrix08\Documents\Git_GitHub\Kodimax\Kodimax\bin\Debug\Kodimax.exe.config
+C:\Users\matrix08\Documents\Git_GitHub\Kodimax\Kodimax\bin\Debug\Kodimax.exe
+C:\Users\matrix08\Documents\Git_GitHub\Kodimax\Kodimax\bin\Debug\Kodimax.pdb
+C:\Users\matrix08\Documents\Git_GitHub\Kodimax\Kodimax\obj\Debug\Kodimax.csproj.CoreCompileInputs.cache
+C:\Users\matrix08\Documents\Git_GitHub\Kodimax\Kodimax\obj\Debug\Kodimax.exe
+C:\Users\matrix08\Documents\Git_GitHub\Kodimax\Kodimax\obj\Debug\Kodimax.pdb
